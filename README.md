@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... Python, Rust, React.js, Typescript, Java, Javascript, Next.js, Vue.js, AWS
-- 🌱 I’m currently learning ... Rust, Laravel, Ruby on Rails, 
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... Python, Django, DRF
+- 🔭 I’m currently working on ... Rust, Python, Rails, Go
+- 🌱 I’m currently learning ... Rust, Ruby on Rails, Go
 - 📫 How to reach me: ... kazuki.tamaribuchi@gmail.com
